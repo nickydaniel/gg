@@ -1,0 +1,44 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 30px;
+  }
+  div {
+    background-color: lightblue;
+    border-width: 5px;
+    
+  }
+  ul {
+    list-style-image: url('nappula.png');
+  }
+  h2 {
+    outline-style: solid;
+    outline-color: grey;
+  }
+  
+  div.a {
+    outline-style: solid;
+    outline-color: grey;
+  }
+  
+  div.b {
+    border: 1px solid grey;
+    outline-style: solid;
+    outline-color: grey;
+  }
+  p {
+    margin: 30px;
+    border: 5px solid grey;
+    outline-offset: 15px;
+  }
+
+
+  
