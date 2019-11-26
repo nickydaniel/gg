@@ -1,0 +1,10 @@
+a:visited {
+    color: rgb(255, 145, 0);
+}
+a {
+    color: rgb(255, 31, 1);
+}
+a:active {
+    color: rgb(0, 255, 34)
+    ;
+}
